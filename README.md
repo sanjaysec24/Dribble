@@ -34,7 +34,7 @@ Publish the website in the LocalHost.
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Dribbble Clone - Bootstrap</title>
 
-  <!-- Bootstrap CSS (CDN) -->
+ 
   <link
     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
     rel="stylesheet"
@@ -42,7 +42,7 @@ Publish the website in the LocalHost.
 </head>
 <body class="bg-light">
 
-  <!-- NAVBAR -->
+ 
   <nav class="navbar navbar-expand-lg border-bottom sticky-top" style="background-color: purple;">
     <div class="container">
       <a class="navbar-brand fw-bold text-white" href="#">
@@ -72,7 +72,7 @@ Publish the website in the LocalHost.
     </div>
   </nav>
 
-  <!-- HERO SECTION -->
+  
   <section class="py-5 bg-white border-bottom">
     <div class="container">
       <div class="row align-items-center gy-4">
@@ -119,7 +119,7 @@ Publish the website in the LocalHost.
     </div>
   </section>
 
-  <!-- CATEGORY TABS SECTION -->
+ 
   <section class="py-4">
     <div class="container">
       <ul class="nav nav-pills justify-content-center mb-4 flex-wrap">
@@ -132,7 +132,7 @@ Publish the website in the LocalHost.
     </div>
   </section>
 
-  <!-- SHOTS GRID SECTION -->
+  
 <section class="pb-5">
   <div class="container">
     <div class="row g-4">
@@ -185,14 +185,13 @@ Publish the website in the LocalHost.
   </div>
 </section>
 
-  <!-- CALL TO ACTION -->
+ 
   <section class="py-5 bg-white border-top border-bottom text-center">
       <h2 class="fw-bold mb-3">Share your creativity with the world</h2>
       <button class="btn text-white me-2" style="background-color: purple;">Sign up free</button>
       <button class="btn btn-outline-secondary">Learn more</button>
   </section>
 
-  <!-- FOOTER -->
   <footer class="py-3 text-center text-light" style="background-color: purple;">
       <p class="small">© 2025 Dribbble Clone (Student Project)</p>
       <p class="small">Designed by <strong>Sanjay Kumar</strong></p>
